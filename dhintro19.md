@@ -4,7 +4,7 @@ Introduction to Digital Humanities
 DHUM 70000\
 Fall 2019\
 CUNY Graduate Center\
-Wednesdays 4:15pm--6:15pm - Room TBA
+Wednesdays 4:15pm--6:15pm - Room 5417
 
 **Faculty**
 
