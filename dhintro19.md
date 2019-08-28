@@ -22,8 +22,8 @@ Course Blog: http://cuny.is/dhintro19\
 Course Group: http://cuny.is/group-dhintro19\
 Course Hashtag: \#dhintro19\
 Email the class: dhintro18@groups.commons.gc.cuny.edu\
-\
-\
+
+
 **Advisory Fellows:**\
 Micki Kaufman (MA in DH);\
 Andi Çupallari (MS in Data Analysis/Vis)
