@@ -1,4 +1,5 @@
-# Course Schedule (subject to change)																										
+# Course Schedule (subject to change)	
+Readings marked **(PDF)** can be found in our [course group](https://commons.gc.cuny.edu/groups/introduction-to-digital-humanities-2019/documents/)																		
 																												
 ## 8/28 - Introductions
 
@@ -8,7 +9,7 @@ Course syllabus and site
 
 *Readings*
 
-* Matthew K. Gold, "The Digital Humanities Moment" - Debates in the Digital Humanities (2012)
+* Matthew K. Gold, "[The Digital Humanities Moment](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/fcd2121c-0507-441b-8a01-dc35b8baeec6#intro)" - Debates in the Digital Humanities (2012)
 
 * Matthew K. Gold and Lauren F. Klein, "Digital Humanities: The Expanded Field" Debates in the Digital Humanities 2016
 
