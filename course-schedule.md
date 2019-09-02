@@ -27,7 +27,7 @@ Course syllabus and site
 
 * [Create Caribbean Projects](http://createcaribbean.org/create/projects/) 
 
-* [The Early Caribbean Digital Archive](https://ecda.northeastern.edu/	) 																	
+* [The Early Caribbean Digital Archive](https://ecda.northeastern.edu/) 																	
 
 **Assignment -- blog post:**
 
