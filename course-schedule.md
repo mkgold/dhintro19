@@ -89,7 +89,7 @@ Course syllabus and site
 
 *Sites to Explore*
 
-* [A Tale of Two Plantations](http://twoplantations.com/ ) 																								
+* [A Tale of Two Plantations](http://twoplantations.com/) 																								
 
 * [Around DH in 80 days](https://arounddh.org)																								
 
