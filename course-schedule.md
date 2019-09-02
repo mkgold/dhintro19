@@ -6,15 +6,17 @@ Course syllabus and site
 																												
 ## 9/4 - Approaching the Digital Humanities, Thinking the Caribbean
 
-Matthew K. Gold, "The Digital Humanities Moment" - Debates in the Digital Humanities (2012)
+*Readings*
 
-Matthew K. Gold and Lauren F. Klein, "Digital Humanities: The Expanded Field" Debates in the Digital Humanities 2016
+* Matthew K. Gold, "The Digital Humanities Moment" - Debates in the Digital Humanities (2012)
 
-Matthew K. Gold and Lauren F. Klein, "A DH That Matters" Debates in the Digital Humanities 2019
+* Matthew K. Gold and Lauren F. Klein, "Digital Humanities: The Expanded Field" Debates in the Digital Humanities 2016
 
-Kelly Baker Josephs and Roopika Risam, "Digital Black Atlantic Introduction" (draft)																									
+* Matthew K. Gold and Lauren F. Klein, "A DH That Matters" Debates in the Digital Humanities 2019
 
-David Scott, "On the Question of Caribbean Studies"																									
+* Kelly Baker Josephs and Roopika Risam, "Digital Black Atlantic Introduction" (draft)																									
+
+* David Scott, "On the Question of Caribbean Studies"																									
 
 *Sites to explore*
 
@@ -34,26 +36,31 @@ David Scott, "On the Question of Caribbean Studies"
 																												
 ## 9/11 - Epistemologies of DH
 
-Kim Gallon, "Making a Case for the Black Digital Humanities."																									
+*Readings*
 
-Kelly Baker Josephs, "Teaching the Digital Caribbean: The Ethics of a Public Pedagogical Experiment"																									
+* Kim Gallon, "Making a Case for the Black Digital Humanities."																									
 
-Roopika Risam, "What Passes for Human? Undermining the Universal Subject in Digital Humanities Praxis" (bodies dhd)																									
+* Kelly Baker Josephs, "Teaching the Digital Caribbean: The Ethics of a Public Pedagogical Experiment"																									
+
+* Roopika Risam, "What Passes for Human? Undermining the Universal Subject in Digital Humanities Praxis" (bodies dhd)																									
 			
-Daniel Paul O'Donnell, Katherine L. Walter, Alex Gil, Neil Fraistat, "Only Connect: The Globalization of the Digital Humanities"																									
+* Daniel Paul O'Donnell, Katherine L. Walter, Alex Gil, Neil Fraistat, "Only Connect: The Globalization of the Digital Humanities"																									
 
-D. Fox Harrell, "Cultural Roots for Computing"																									
+* D. Fox Harrell, "Cultural Roots for Computing"																									
 
-Matthew K. Gold, *Thinking Through the Digital Humanities* (selection)
+* Matthew K. Gold, *Thinking Through the Digital Humanities* (selection)
 																												
 ## 9/18 - Mapping
-Mark S. Monmonier, How to Lie with Maps (selections)																									
 
-Olivia Ildefonso, "Finding the Right Tools for Mapping"																									
+*Readings*
 
-Yarimar Bonilla and Max Hantel, "Visualizing Sovereignty"																									
+* Mark S. Monmonier, How to Lie with Maps (selections)																									
 
-Mayukh Sen, "Dividing Lines. Mapping platforms like Google Earth have the legacies of colonialism programmed into them"																									
+* Olivia Ildefonso, "Finding the Right Tools for Mapping"																									
+
+* Yarimar Bonilla and Max Hantel, "Visualizing Sovereignty"																									
+
+* Mayukh Sen, "Dividing Lines. Mapping platforms like Google Earth have the legacies of colonialism programmed into them"																									
 
 *Explore the following mapping projects:*	
 																								
@@ -67,31 +74,39 @@ Mayukh Sen, "Dividing Lines. Mapping platforms like Google Earth have the legaci
 																												
 ## 9/25 - Data and Visualization
 
-Jennifer Guiliano and Carolyn Heitman, "Difficult Heritage and the Complexities of Indigenous Data"																									
+*Readings*
 
-Tressie McMillan, "More Scale, More Questions: Observations from Sociology"																									
+* Jennifer Guiliano and Carolyn Heitman, "Difficult Heritage and the Complexities of Indigenous Data"																									
 
-Jessica Marie Johnson, "A Review of ‘Two Plantations'"																									
+* Tressie McMillan, "More Scale, More Questions: Observations from Sociology"																									
 
-Johanna Drucker, "Humanities Approaches to Graphical Display" 																									
+* Jessica Marie Johnson, "A Review of ‘Two Plantations'"																									
 
-Lev Manovich, What is Visualization?" 																									
+* Johanna Drucker, "Humanities Approaches to Graphical Display" 																									
 
-A Tale of Two Plantations" http://twoplantations.com/ 																								
+* Lev Manovich, What is Visualization?" 																									
 
-Around DH in 80 days - https://arounddh.org																								
+*Sites to Explore*
 
-Data is beautiful: 10 of the best data visualization examples from history to today																								
+* A Tale of Two Plantations" http://twoplantations.com/ 																								
+
+* Around DH in 80 days - https://arounddh.org																								
+
+* Data is beautiful: 10 of the best data visualization examples from history to today																								
 																												
 ## 10/2 - History and the Archive (Guest visit from Ada Ferrer)
-Linda M. Rodriguez and Ada Ferrer, "Collaborating with Aponte: Digital Humanities, Art, and the Archive" 																									
 
-Marlene L. Daut, "Haiti @ the Digital Crossroads: Archiving Black Sovereignty"																									
+*Readings*
 
-Jessica Marie Johnson, “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads"																									
+* Linda M. Rodriguez and Ada Ferrer, "Collaborating with Aponte: Digital Humanities, Art, and the Archive" 																									
+
+* Marlene L. Daut, "Haiti @ the Digital Crossroads: Archiving Black Sovereignty"																									
+
+* Jessica Marie Johnson, “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads"																									
 
 *Site to Explore*
-Digital Aponte - http://aponte.hosting.nyu.edu/																								
+
+* Digital Aponte - http://aponte.hosting.nyu.edu/																								
 
 **Assignment: PRAXIS Mapping assignment due**		
 
@@ -101,57 +116,74 @@ Digital Aponte - http://aponte.hosting.nyu.edu/
 																												
 ## 10/23 - Design / infrastructure
 
-Kelly Baker Josephs and Teanu Reid, "After the Collaboration"																									
+*Readings*
 
-Angela Sutton, "The Digital Overhaul of the Archive of Ecclesiastical and Secular Sources for Slave Societies (ESSSS)"																									
+* Kelly Baker Josephs and Teanu Reid, "After the Collaboration"																									
 
-Bethany Nowiskie, "Capacity Through Care"																									
+* Angela Sutton, "The Digital Overhaul of the Archive of Ecclesiastical and Secular Sources for Slave Societies (ESSSS)"																									
 
-Star, Susan Leigh. “The Ethnography of Infrastructure.”																									
+* Bethany Nowiskie, "Capacity Through Care"																									
 
-Miriam Posner, "See No Evil?"																									
+* Star, Susan Leigh. “The Ethnography of Infrastructure.”																									
 
-Stephen Jackson, "Rethinking Repair"																									
+* Miriam Posner, "See No Evil?"																									
 
-Alex Gil interview with Ernesto Orzozo																									
+* Stephen Jackson, "Rethinking Repair"																									
+
+* Alex Gil interview with Ernesto Orzozo																									
 
 **Assignment: PRAXIS Visualization assignment due**																										
 																												
 ## 10/30 - Access / Minimal Computing
 
-Kathleen Fitzpatrick, Generous Thinking (selections)																									
+*Readings*
 
-Cristina Venegas, "Tourism and the Social Ramifications of Media Technologies"*																									
+* Kathleen Fitzpatrick, Generous Thinking (selections)																									
 
-Johanna Drucker, "Pixel Dust: Illusions of Innovation in Scholarly Publishing"																									
+* Cristina Venegas, "Tourism and the Social Ramifications of Media Technologies"*																									
 
-Alex Gil, Design for Diversity: The Case of Ed 																									
+* Johanna Drucker, "Pixel Dust: Illusions of Innovation in Scholarly Publishing"																									
 
-Case studies: DHdebates site; sx salon/sx archipelagos																									
+* Alex Gil, Design for Diversity: The Case of Ed 																									
+
+*Sites to Explore*
+
+* DHdebates site
+
+* sx salon/sx archipelagos	
+
+* Open-Access publications on the CUNY Academic Commons
+
+* Manifold																								
 																												
 ## 11/6 - Text
 
-Underwood, Ted. "A Genealogy of Distant Reading." Digital Humanities Quarterly, vol. 11, no. 2, 2017.																									
+*Readings*
 
-Klein, Lauren F. “Distant Reading after Moretti.” Lklein, 2018.																									
+* Underwood, Ted. "A Genealogy of Distant Reading." Digital Humanities Quarterly, vol. 11, no. 2, 2017.																									
 
-Ramsay, Stephen. “The Hermeneutics of Screwing Around; or What You Do with a Million Books.” Pastplay: Teaching and Learning History with Technology, edited by Kevin Kee, University of Michigan Press, 2014, pp. 111–20.																									
+* Klein, Lauren F. “Distant Reading after Moretti.” Lklein, 2018.																									
 
-Witmore, Michael. "Text: A Massively Addressable Object." Debates in the Digital Humanities: 2012, edited by Matthew K. Gold. University of Minnesota Press, 2012.																									
+* Ramsay, Stephen. “The Hermeneutics of Screwing Around; or What You Do with a Million Books.” Pastplay: Teaching and Learning History with Technology, edited by Kevin Kee, University of Michigan Press, 2014, pp. 111–20.																									
 
-So, Richard Jean. "All Models are Wrong." PMLA, vol. 132, no. 3, May 2017, pp. 668-673.																									
+* Witmore, Michael. "Text: A Massively Addressable Object." Debates in the Digital Humanities: 2012, edited by Matthew K. Gold. University of Minnesota Press, 2012.																									
+
+* So, Richard Jean. "All Models are Wrong." PMLA, vol. 132, no. 3, May 2017, pp. 668-673.																									
 
 
 **Assignment: PRAXIS text mining assignment due**	
 																												
 ## 11/13 - Pedagogy
-Ryan Cordell, How Not to Teach Digital Humanities																									
 
-Lizabeth Paravisini-Gebert, "Review of Puerto Rico Syllabus: Essential Tools for Critical Thinking about the Puerto Rican Debt Crisis"																									
+*Readings*
 
-Roopika Risam, "Postcolonial Digital Pedagogy" (Chapter excerpt)																									
+* Ryan Cordell, How Not to Teach Digital Humanities																									
 
-Marta Effinger-Crichlow, "A Pedagogical Search for Home and Care" 																									
+* Lizabeth Paravisini-Gebert, "Review of Puerto Rico Syllabus: Essential Tools for Critical Thinking about the Puerto Rican Debt Crisis"																									
+
+* Roopika Risam, "Postcolonial Digital Pedagogy" (Chapter excerpt)																									
+
+* Marta Effinger-Crichlow, "A Pedagogical Search for Home and Care" 																									
 
 *Multimedia to explore:*																									
 
@@ -161,7 +193,9 @@ Marta Effinger-Crichlow, "A Pedagogical Search for Home and Care"
 
 * Digital Pedagogy in the Humanities - https://digitalpedagogy.mla.hcommons.org/																								
 																												
-## 11/20 - Ruha Benjamin, Race after Technology																										
+## 11/20 - Ruha Benjamin, Race after Technology	
+
+*Readings*																									
 
 Read **Race after Technology** in full
 
