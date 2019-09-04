@@ -43,7 +43,7 @@ Course syllabus and site
 
 * Kelly Baker Josephs, "[Teaching the Digital Caribbean: The Ethics of a Public Pedagogical Experiment](https://jitp.commons.gc.cuny.edu/teaching-the-digital-caribbean-the-ethics-of-a-public-pedagogical-experiment/)"																									
 
-* Roopika Risam, "What Passes for Human? Undermining the Universal Subject in Digital Humanities Praxis" (PDF)																									
+* Roopika Risam, "[What Passes for Human? Undermining the Universal Subject in Digital Humanities Praxis](https://dhdebates.gc.cuny.edu/read/d02c3ed5-0c55-4de9-88de-5f543fecd130/section/34d51cdb-2a89-4e4b-9762-bf6461cf0bb7#ch03)"																									
 			
 * Daniel Paul O'Donnell, Katherine L. Walter, Alex Gil, Neil Fraistat, "Only Connect: The Globalization of the Digital Humanities"	(PDF)																								
 
