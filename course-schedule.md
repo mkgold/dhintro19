@@ -49,7 +49,7 @@ Course syllabus and site
 
 * D. Fox Harrell, "[Cultural Roots for Computing](http://eleven.fibreculturejournal.org/fcj-069-cultural-roots-for-computingthe-case-of-african-diasporic-orature-and-computational-narrative-in-the-griot-system/)"																									
 
-* Ramsay, Stephen, and Geoffrey Rockwell. "[Developing Things: Notes toward an Epistemology of Building in the Digital Humanities](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/c733786e-5787-454e-8f12-e1b7a85cac72#ch05)" Debates in the Digital Humanities: 2012, edited by Matthew K. Gold. University of Minnesota Press, 2012, p. 11.
+* Ramsay, Stephen, and Geoffrey Rockwell. "[Developing Things: Notes toward an Epistemology of Building in the Digital Humanities](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/c733786e-5787-454e-8f12-e1b7a85cac72#ch05)" Debates in the Digital Humanities: 2012, edited by Matthew K. Gold. University of Minnesota Press, 2012.
 																												
 ## 9/18 - Mapping
 
