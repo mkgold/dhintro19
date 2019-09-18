@@ -89,7 +89,18 @@ Our group on the CUNY Academic Commons includes an integration with the Dirt Dir
 Assignment options:
 
 1.  Mapping Assignment (Due Oct 2 -- required of all students)\
-    Create a map of a novel, an author's works, or some other data using Google Maps, CartoDB, ARCGIS StoryMaps, or another mapping platform. Blog about your project
+    
+Praxis Assignment -- Mapping
+
+Create a map using one of the tools described in “Finding the Right Tools for Mapping.” You can create any map you’d like; we just want you to try to use one of these pieces of mapping software. Should you feel so inspired, we invite you to explore one of the following options:
+
+* Create a map that in some way attempts to work against the constraints of maps (generally) or the particular mapping software you are using.
+* Create a map of something that is not necessarily (or traditionally thought of as) mappable.
+* Create a map related to issues of sovereignty as discussed in the “Visualizing Sovereignty” article.
+* Create a map of a novel, an author's works, or some other data using Google Maps, CartoDB, ARCGIS StoryMaps, or another mapping platform. 
+
+Please create a blog post describing your experiences. 
+
 
 Choose either:
 
