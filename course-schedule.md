@@ -103,7 +103,7 @@ Course syllabus and site
 
 * Daut, Marlene L. "[Haiti @ the Digital Crossroads: Archiving Black Sovereignty](http://smallaxe.net/sxarchipelagos/issue03/daut.html)." *sx archipelagos*, Issue (3), April 2019.																									
 
-* Johnson, Jessica Marie. “Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads." *Social Text*, Duke University Press, vol. 36, no. 4, edited by Jayna Brown and David Sartorius, 1 December 2018. (PDF)																									
+* Johnson, Jessica Marie. "<a data-document-title="Markup Bodies" class="group-documents-title" id="group-document-link-14743" href="https://commons.gc.cuny.edu?get_group_doc=1722/1569631721-6.johnson-markup-bodies.pdf">Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads.<span class="group-documents-filesize"></span></a>" *Social Text*, Duke University Press, vol. 36, no. 4, edited by Jayna Brown and David Sartorius, 1 December 2018. (PDF)
 
 *Site to Explore*
 
