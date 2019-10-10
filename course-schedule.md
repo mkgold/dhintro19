@@ -119,7 +119,7 @@ Course syllabus and site
 
 *Readings*
 
-* Josephs, Kelly Baker, and Teanu Reid. "After the Collaboration." *Caribbean Quarterly*, vol. 65, no. 3, edited by Kim Robinson-Walcott, 25 July 2019. (PDF)																								
+* Continued discussion of Rodriguez/Ferrer and Daut articles from previous class														
 
 * Sutton, Angela. "[The Digital Overhaul of the Archive of Ecclesiastical and Secular Sources for Slave Societies (ESSSS)](http://smallaxe.net/sxarchipelagos/issue02/essss.html)." *sx archipelagos*, Issue (2), September 2017.																			
 
@@ -132,8 +132,7 @@ Course syllabus and site
 * Jackson, Stephen. "[Rethinking Repair](https://sjackson.infosci.cornell.edu/RethinkingRepairPROOFS(reduced)Aug2013.pdf)." *Media Technologies: Essays on Communication, Materiality, and Society*, edited by Tarleton Gillespie, Pablo J. Boczkowski, and Kirsten A. Foot, MIT Press Scholarship Online, September 2014. 																									
 
 * Gil, Alex. "[Interview with Ernesto Oroza](https://dhdebates.gc.cuny.edu/read/untitled/section/f2df3413-259e-46fe-9982-f1dba0c386fb#ch16)." *Debates in the Digital Humanities: 2016*, edited by Matthew K. Gold and Lauren F. Klein, University of Minnesota Press, 2016. 																								
-
-**Assignment: PRAXIS Visualization assignment due**																										
+																				
 																												
 ## 10/30 - Access / Minimal Computing
 
@@ -156,7 +155,7 @@ Course syllabus and site
 * [Open-Access publications on the CUNY Academic Commons](https://commons.gc.cuny.edu/about/publications/)
 
 * [Manifold](http://manifoldapp.org)																								
-																												
+**Assignment: PRAXIS Visualization assignment due**																												
 ## 11/6 - Text
 
 *Readings*
