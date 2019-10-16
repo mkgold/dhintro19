@@ -104,12 +104,15 @@ Please create a blog post describing your experiences.
 
 Choose either:
 
-2.  Visualization Assignment (Due Oct 23)\
-Description forthcoming
+2.  Visualization Assignment (Due Nov 6)\
+Create a data visualization using one of the tools described in “Digital Humanities Tools: Data Visualization Tools” (we suggest starting with Tableau Public, especially if you are new to data viz). As with the mapping praxis assignment, you may create any type of visualization you’d like; we just want you to attempt working with one of these pieces of data viz software. Since we’ve already done a mapping praxis assignment, we would like you to avoid a geospatial visualization.
+
+Please create a blog post describing your experience(s) creating the data visualization and connect your experience(s) with one or two readings from class thus far, particularly from the “Data and Visualization” week. 
+
 
 or    
 
-3.  Text Analysis Assignment (Due Nov 6)\
+3.  Text Analysis Assignment (Due Nov 20)\
 Description forthcoming
 
 **Final Projects:** Students may choose between **a)** writing a conventional seminar paper related to some aspect of our course readings; or **b)** crafting a formal proposal for a digital project that might be executed with a team of students during the spring semester. Guidelines for the proposal will be distributed later in the semester.
