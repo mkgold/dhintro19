@@ -200,9 +200,15 @@ Read **Race after Technology** in full
 **Assignment: PRAXIS text mining assignment due**
 
 
-## 11/27 - Open topic (TBA)																							
+## 11/27 - Open Topics: Sound Studies, Image Analysis, Accessibility, DH + Environmental Studies:
 
-Readings TBA
+* Lingold, Mary Caton; Darren Mueller; Whitney Anne Trettien, "[Introduction](https://www.dukeupress.edu/Assets/PubMaterials/978-0-8223-7060-4_601.pdf)." *Digital sound studies*. Durham: Duke University Press, 2019: pp. 1-25. 
+
+* Arnold, Taylor and Lauren Tilton. "[Distant Viewing](https://commons.gc.cuny.edu/?get_group_doc=1722/1571609346-tilton-arnold-distant-viewing.pdf)." *Digital Scholarship in the Humanities*. March 2019.
+
+* Williams, George. [Disability, Universal Design, and the Digital Humanities](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/2a59a6fe-3e93-43ae-a42f-1b26d1b4becc#ch12). *Debates in the Digital Humanities*, ed. Matthew K. Gold. Minneapolis: University of Minnesota Press, 2012.
+
+* Linley, Margaret. "[Ecological Entanglements of DH](https://dhdebates.gc.cuny.edu/read/untitled/section/47e34952-7b4a-42eb-9b87-d24607a18588#ch34)." *Debates in the Digital Humanities: 2016*, edited by Matthew K. Gold and Lauren F. Klein, University of Minnesota Press, 2016. 
 
 **Assignment: FINAL PROPOSALS DUE**																										
 																												
