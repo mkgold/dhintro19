@@ -138,7 +138,7 @@ Course syllabus and site
 
 *Readings*
 
-* Fitzpatrick, Kathleen. *Generous Thinking: A Radical Approach to Saving the University.* Johns Hopkins University Press, 12 February 2019. (PDF) 																									
+* Fitzpatrick, Kathleen. "[Generous Thinking: Sustainability, Solidarity, and the Common Good](https://www.youtube.com/watch?v=1C23uT3xNpw)." CNI: Coalition for Networked Information Spring 2019 Membership Meeting. April 18-19, 2019.																	
 
 * Venegas, Cristina. "Tourism and the Social Ramifications of Media Technologies." *Digital Dilemmas: The State, the Individual, and Digital Media in Cuba*, Rutgers University Press, 2010, pp. 98-130.  																									
 
