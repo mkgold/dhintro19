@@ -167,7 +167,7 @@ Course syllabus and site
 
 * Witmore, Michael. "[Text: A Massively Addressable Object](https://dhdebates.gc.cuny.edu/read/untitled-88c11800-9446-469b-a3be-3fdb36bfbd1e/section/402e7e9a-359b-4b11-8386-a1b48e40425a#p4b3)." *Debates in the Digital Humanities: 2012*, edited by Matthew K. Gold. University of Minnesota Press, 2012.																									
 
-* So, Richard Jean. "All Models are Wrong." *PMLA*, vol. 132, no. 3, May 2017, pp. 668-673. (PDF)																						
+* So, Richard Jean. "[All Models are Wrong](https://commons.gc.cuny.edu/?get_group_doc=1722/1571607991-so-richard-jean-all-models-are-wrong.pdf)." *PMLA*, vol. 132, no. 3, May 2017, pp. 668-673. (PDF)																						
 
 **Assignment: PRAXIS Visualization assignment due**	
 																				
