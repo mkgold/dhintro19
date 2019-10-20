@@ -125,7 +125,7 @@ Course syllabus and site
 
 * Nowiskie, Bethany. "[Capacity Through Care](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/3a53cbc1-5eee-421a-a4f6-82bb5dfb1c17#ch37)." *Debates in the Digital Humanities: 2019*, edited by Matthew K. Gold and Lauren F. Klein, University of Minnesota Press, 2019.  																	
 
-* Star, Susan Leigh. “The Ethnography of Infrastructure." *American Behavioral Scientist*, vol. 43.4, 1 November 1999. (PDF)																			
+* Star, Susan Leigh. “<a href="http://manuel.boutet.free.fr/Star_EthnographyOfInfrastructure.pdf">The Ethnography of Infrastructure<>." *American Behavioral Scientist*, vol. 43.4, 1 November 1999. (PDF)																			
 
 * Posner, Miriam. "[See No Evil?](https://logicmag.io/scale/see-no-evil/)" *Logic Magazine*, Scale: Issue (4), 1 April 2018. 																			
 
