@@ -104,7 +104,7 @@ Choose either:
 
 **2.  Visualization Assignment (Due Nov 6)**
 
-Create a data visualization using one of the tools described in “(Digital Humanities Tools: Data Visualization Tools)[https://libguides.library.arizona.edu/dighumantools/dataviz]” (we suggest starting with Tableau Public, especially if you are new to data viz). As with the mapping praxis assignment, you may create any type of visualization you’d like; we just want you to attempt working with one of these pieces of data viz software. Since we’ve already done a mapping praxis assignment, we would like you to avoid a geospatial visualization.
+Create a data visualization using one of the tools described in (Digital Humanities Tools: Data Visualization Tools)[https://libguides.library.arizona.edu/dighumantools/dataviz] (we suggest starting with Tableau Public, especially if you are new to data viz). As with the mapping praxis assignment, you may create any type of visualization you’d like; we just want you to attempt working with one of these pieces of data viz software. Since we’ve already done a mapping praxis assignment, we would like you to avoid a geospatial visualization.
 
 Please create a blog post describing your experience(s) creating the data visualization and connect your experience(s) with one or two readings from class thus far, particularly from the “Data and Visualization” week. 
 
