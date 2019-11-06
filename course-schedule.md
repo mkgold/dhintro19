@@ -213,10 +213,9 @@ Read **Race after Technology** in full
 
 **Assignment: FINAL PROPOSALS DUE**																										
 																												
-## 12/4 - Student Presentations (Guest Professor visit)																										
+## 12/4 - Student Presentations (Bret Maney visit)																										
 
-## 12/11 - Student Presentations																										
-
+## 12/11 - Student Presentations (Bret Maney visit)																								
 ## 12/18 - Final Projects due	
 
 
