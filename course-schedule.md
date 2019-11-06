@@ -186,13 +186,14 @@ Course syllabus and site
 
 *Multimedia to explore:*														
 
+* [SXCD2018 - Session 3: Digital Caribbean Pedagogies](https://www.youtube.com/watch?v=YHROTn2lodw)	
+
 * [Digital Pedagogy in the Humanities](https://github.com/curateteaching/digitalpedagogy/tree/master/keywords)
 
 * online DH syllabi (browse the [Humanities Commons](https://hcommons.org/deposits/?facets[genre_facet][]=Syllabus) and the [Open Syllabus Project](https://opensyllabus.org/) )						
 
-* [SXCD2018 - Session 3: Digital Caribbean Pedagogies](https://www.youtube.com/watch?v=YHROTn2lodw)																	
-																							
-																												
+														
+																											
 ## 11/20 - Ruha Benjamin, **Race after Technology**	
 
 *Readings*																									
