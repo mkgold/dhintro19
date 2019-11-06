@@ -114,7 +114,7 @@ or
 **3.  Text Analysis Assignment (Due Nov 20)**
 Text-Mining Assignment (Due Nov 20) 
 
-First, read this overview of text-mining. Second, choose a text or set of texts to explore with Voyant (easiest), Google N-Gram, J-Stor Text Analyzer, Bookworm, MALLET, or another text-mining tool. Third, explore! Fourth, blog about your experiences.
+First, read (this overview of text-mining)[http://fredgibbs.net/courses/etc/getting-started-with-text-mining]. Second, choose a text or set of texts to explore with Voyant (easiest), Google N-Gram, (J-Stor Text Analyzer)[https://www.jstor.org/analyze/], Bookworm, MALLET, or another text-mining tool. Third, explore! Fourth, blog about your experiences.
 
 Resources (tool overviews and/or project examples): 
 
