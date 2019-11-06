@@ -184,13 +184,14 @@ Course syllabus and site
 
 * Effinger-Crichlow, Marta. "[A Pedagogical Search for Home and Care](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4a11a299-5008-450a-9979-b49727319114#ch40)." *Debates in the Digital Humanities: 2019*, edited by Matthew K. Gold and Lauren F. Klein, University of Minnesota Press, 2019.																									
 
-*Multimedia to explore:*																									
+*Multimedia to explore:*														
+
+* [Digital Pedagogy in the Humanities](https://github.com/curateteaching/digitalpedagogy/tree/master/keywords)
 
 * online DH syllabi (browse the [Humanities Commons](https://hcommons.org/deposits/?facets[genre_facet][]=Syllabus) and the [Open Syllabus Project](https://opensyllabus.org/) )						
 
-* [SXCD2018 - Session 3: Digital Caribbean Pedagogies](https://www.youtube.com/watch?v=YHROTn2lodw)																		
-
-* [Digital Pedagogy in the Humanities](https://github.com/curateteaching/digitalpedagogy/tree/master/keywords) 																							
+* [SXCD2018 - Session 3: Digital Caribbean Pedagogies](https://www.youtube.com/watch?v=YHROTn2lodw)																	
+																							
 																												
 ## 11/20 - Ruha Benjamin, **Race after Technology**	
 
