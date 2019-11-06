@@ -112,7 +112,17 @@ Please create a blog post describing your experience(s) creating the data visual
 or    
 
 **3.  Text Analysis Assignment (Due Nov 20)**
-Description forthcoming
+Text-Mining Assignment (Due Nov 20) 
+
+First, read this overview of text-mining. Second, choose a text or set of texts to explore with Voyant (easiest), Google N-Gram, J-Stor Text Analyzer, Bookworm, MALLET, or another text-mining tool. Third, explore! Fourth, blog about your experiences.
+
+Resources (tool overviews and/or project examples): 
+
+https://libguides.wpi.edu/digital_scholarship/text_analysis (note — some links lead to WPI-restricted resources, but you can find open version of most resources named by googling the tool names)
+
+http://dh.matrix.msu.edu/research/text-mining/
+
+<hr />
 
 **Final Projects:** Students may choose between **a)** writing a conventional seminar paper related to some aspect of our course readings; or **b)** crafting a formal proposal for a digital project that might be executed with a team of students during the spring semester. Guidelines for the proposal will be distributed later in the semester.
 
