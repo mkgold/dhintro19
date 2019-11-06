@@ -179,7 +179,8 @@ Course syllabus and site
 
 * Paravisini-Gebert, Lizabeth. "[Review of Puerto Rico Syllabus: Essential Tools for Critical Thinking about the Puerto Rican Debt Crisis](http://smallaxe.net/sxarchipelagos/issue03/paravisini.html)." *sx archipelagos*, Issue (3), April 2019.																					
 
-* Risam, Roopika. "Postcolonial Digital Humanities." *New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy*, Northwestern University Press, 2019, pp. 89-114. (PDF)																									
+* Risam, Roopika. "<a data-document-title="Postcolonial Digital Pedagogy" class="group-documents-title" id="group-document-link-14893" href="https://commons.gc.cuny.edu?get_group_doc=1722/1572925533-12.Risamchapter4.pdf">Postcolonial Digital Pedagogy<span class="group-documents-filesize"></span></a>." *New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy*, Northwestern University Press, 2019, pp. 89-114. (PDF)	
+
 
 * Effinger-Crichlow, Marta. "[A Pedagogical Search for Home and Care](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4a11a299-5008-450a-9979-b49727319114#ch40)." *Debates in the Digital Humanities: 2019*, edited by Matthew K. Gold and Lauren F. Klein, University of Minnesota Press, 2019.																									
 
@@ -187,7 +188,7 @@ Course syllabus and site
 
 * online DH syllabi (selections)																								
 
-* #SXCD2018 - Session 3: Digital Caribbean Pedagogies																								
+* SXCD2018 - Session 3: Digital Caribbean Pedagogies																								
 
 * [Digital Pedagogy in the Humanities](https://github.com/curateteaching/digitalpedagogy/tree/master/keywords) 																							
 																												
