@@ -112,7 +112,6 @@ Please create a blog post describing your experience(s) creating the data visual
 or    
 
 **3.  Text Analysis Assignment (Due Nov 20)**
-Text-Mining Assignment (Due Nov 20) 
 
 First, read [this overview of text-mining](http://fredgibbs.net/courses/etc/getting-started-with-text-mining). Second, choose a text or set of texts to explore with Voyant (easiest), Google N-Gram, [J-Stor Text Analyzer](https://www.jstor.org/analyze/), Bookworm, MALLET, or another text-mining tool. Third, explore! Fourth, blog about your experiences.
 
@@ -124,7 +123,8 @@ http://dh.matrix.msu.edu/research/text-mining/
 
 <hr />
 
-**Final Projects:** Students may choose between **a)** writing a conventional seminar paper related to some aspect of our course readings; or **b)** crafting a formal proposal for a digital project that might be executed with a team of students during the spring semester. Guidelines for the proposal will be distributed later in the semester.
+**Final Projects** 
+Students may choose between **a)** writing a conventional seminar paper related to some aspect of our course readings; or **b)** crafting a formal proposal for a digital project that might be executed with a team of students during the spring semester. Guidelines for the proposal will be distributed later in the semester.
 
 **Grading**
 
@@ -140,7 +140,7 @@ All students should register for accounts on the following sites: [CUNY Academic
 
 Remember that when you register for social-networking accounts, you do not have to use your full name or even your real name. One benefit of writing publicly under your real name is that you can begin to establish a public academic identity and to network with others in your field. However, keep in mind that search engines have extended the life of online work; if you are not sure that you want your work for this course to be part of your permanently searchable identity trail on the web, you should strongly consider creating a digital alias. Whether you engage social media under your real name or whether you construct a new online identity, please consider the ways in which social media can affect your career in both positive and negative ways.
 
-**Books to Purchase:**
+**Books to Purchase**
 
 You are required to purchase only one book for this course, though that book is also available in the library on reserve. All readings will be circulated via links on the web or via PDF. 
 
