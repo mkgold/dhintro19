@@ -203,7 +203,13 @@ Read **Race after Technology** in full
 **Assignment: PRAXIS text mining assignment due**
 
 
-## 11/27 - Open Topics: Sound Studies, Image Analysis, Accessibility, DH + Environmental Studies:
+## 11/27 - Prospectus Preparation
+
+**Assignment: FINAL Prospectuses DUE**																										
+																												
+## 12/4 - Student Presentations (Bret Maney visit)																										
+
+## 12/11 - Open Topics: Sound Studies, Image Analysis, Accessibility, DH + Environmental Studies:
 
 * Lingold, Mary Caton; Darren Mueller; Whitney Anne Trettien, "[Introduction](https://www.dukeupress.edu/Assets/PubMaterials/978-0-8223-7060-4_601.pdf)." *Digital sound studies*. Durham: Duke University Press, 2019: pp. 1-25. 
 
@@ -213,11 +219,6 @@ Read **Race after Technology** in full
 
 * Linley, Margaret. "[Ecological Entanglements of DH](https://dhdebates.gc.cuny.edu/read/untitled/section/47e34952-7b4a-42eb-9b87-d24607a18588#ch34)." *Debates in the Digital Humanities: 2016*, edited by Matthew K. Gold and Lauren F. Klein, University of Minnesota Press, 2016. 
 
-**Assignment: FINAL PROPOSALS DUE**																										
-																												
-## 12/4 - Student Presentations (Bret Maney visit)																										
-
-## 12/11 - Student Presentations (Bret Maney visit)																								
 ## 12/18 - Final Projects due	
 
 
